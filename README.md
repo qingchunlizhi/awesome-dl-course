@@ -1,5 +1,4 @@
-# awesome-dl-course [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
-深度学习初学者理论与实践学习的资料总结
+# Awesome dl course [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -14,19 +13,23 @@
 #### Machine learning
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014) 
 #### Visual Recognition
-2.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)视频与课件下载链接：https://pan.baidu.com/s/1U63CVgsQmPBb1gxzqglTcA 提取码：2jbo 
+2.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
+    视频与课件下载链接：https://pan.baidu.com/s/1U63CVgsQmPBb1gxzqglTcA 提取码：2jbo 
 #### Natural Language Processing
-3.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)视频与课件下载链接：https://pan.baidu.com/s/1-gi-T4uiQmhJy4em0ICd4A 提取码：hljl 
+3.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
+    视频与课件下载链接：https://pan.baidu.com/s/1-gi-T4uiQmhJy4em0ICd4A 提取码：hljl 
 #### Self-Driving Cars
-4.  [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) 视频与课件下载链接：https://pan.baidu.com/s/1E_Ef2fiPAcWWHZCUc6Eqpw 提取码：s6yd 
+4.  [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/) 
+    视频与课件下载链接：https://pan.baidu.com/s/1E_Ef2fiPAcWWHZCUc6Eqpw 提取码：s6yd 
 #### Deep Reinforcement Learning
-5.  [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)中文字幕视频下载链接：https://pan.baidu.com/s/1qsEcDXpTehKR7USDMFOQ3Q 提取码：cak6 
+5.  [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+    中文字幕视频下载链接：https://pan.baidu.com/s/1qsEcDXpTehKR7USDMFOQ3Q 提取码：cak6 
 6.  [UCL & Deepmind Deep Reinforcement Learning](https://space.bilibili.com/74997410/)
 
 ### Practice
 课程实践
 1.  [Tensorflow-Stanford] https://pan.baidu.com/s/1MCy5-0E7ovUcnT1y4cOSUA  提取码：qhgb
-2.  [Pytorch] (http://course.fast.ai/) by Jeremy Howard - Fast.ai
+2.  [Pytorch by Jeremy Howard - Fast.ai] (http://course.fast.ai/) 
 
 ### Tutorials
 通过上面理论与实践课程的学习，具备了一定经验，下面这些优秀的归纳将助你快速实现你的想法！
